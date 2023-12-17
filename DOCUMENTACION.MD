@@ -1,4 +1,4 @@
-#Pasos seguidos para creación de REST API con Loopback
+# Pasos seguidos para creación de REST API con Loopback
 
 1. Se creó un contenedor en Docker, estableciendo el usuario, contraseña etc.
 2. Se conectó el contenedor con Dbeaver se creó la base de datos usando la sintaxis de Microsoft Sql
